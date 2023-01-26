@@ -1,1 +1,1 @@
-keshav.html
+college/keshav.html
